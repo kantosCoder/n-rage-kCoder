@@ -4,6 +4,8 @@ NRage input plugin -- unofficial version 2.4 kantosCoder build based on libertye
 Changes in this version:
 * The xinput devices will now have diagonal press on analog sticks when 
 c-stick/digital pad are mapped to them
+
+feel free to download the latest build here: https://drive.google.com/open?id=1XU-3vhtsNQBdtsEWw9O-gF1drI8-5R84
 --------------------------------------------
 
 Disclaimer:
